@@ -1,4 +1,5 @@
 # newprogram-demo
+
 This My First Git Repository
 <br>
-Author - Ojas Singh
+Author - Ojas (true newprogram-demo)
